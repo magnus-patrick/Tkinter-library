@@ -1,4 +1,4 @@
-# Tkinter-library
+# Tkinter
 
 ▶️Files concerning the Tkinter library!
 
